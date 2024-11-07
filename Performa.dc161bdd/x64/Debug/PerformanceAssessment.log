@@ -1,0 +1,14 @@
+﻿  main.cpp
+  roster.cpp
+C:\Users\ricky\Desktop\WGU\C867_PA\PerformanceAssessment\roster.cpp(16,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ricky\Desktop\WGU\C867_PA\PerformanceAssessment\roster.cpp(20,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ricky\Desktop\WGU\C867_PA\PerformanceAssessment\roster.cpp(24,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ricky\Desktop\WGU\C867_PA\PerformanceAssessment\roster.cpp(28,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ricky\Desktop\WGU\C867_PA\PerformanceAssessment\roster.cpp(32,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ricky\Desktop\WGU\C867_PA\PerformanceAssessment\roster.cpp(36,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ricky\Desktop\WGU\C867_PA\PerformanceAssessment\roster.cpp(40,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ricky\Desktop\WGU\C867_PA\PerformanceAssessment\roster.cpp(44,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ricky\Desktop\WGU\C867_PA\PerformanceAssessment\roster.cpp(48,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  student.cpp
+  Generating Code...
+  PerformanceAssessment.vcxproj -> C:\Users\ricky\Desktop\WGU\C867_PA\PerformanceAssessment\x64\Debug\PerformanceAssessment.exe
